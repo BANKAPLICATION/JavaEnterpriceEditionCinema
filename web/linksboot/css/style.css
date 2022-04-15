@@ -1,0 +1,12 @@
+/*.zxc {
+    min-height: 700px;
+    text-align: center;
+    background: url("../images/olimp.jpg")  no-repeat 0 50%; ;
+}*/
+
+.forwhite .label {
+    color: whitesmoke;
+}
+.form-group .label {
+    color: white;
+}
